@@ -3,7 +3,7 @@
 
 ## Contributors
 
-[Karthik Shetty](https://github.com/KarthikShetty27) , [Kartik Shah]() , [Ashutosh Sharma]()
+[Karthik Shetty](https://github.com/KarthikShetty27), [Ashutosh Sharma](https://github.com/Ashutosh-Sharma-14) , [Kartik Shah](https://github.com/kartikkstcet)
 
 ### Introduction
 
